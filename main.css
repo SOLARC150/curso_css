@@ -32,7 +32,7 @@ header li {
 
 .article {
     display: flex;
-    /*flex-wrap: wrap;*/
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
@@ -41,7 +41,7 @@ header li {
     width: 350px;
 }
 
-.articles article {
+.article article {
     width: 30%;
 }
 
